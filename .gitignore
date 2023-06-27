@@ -1,0 +1,6 @@
+/venv/
+/.idea/
+/Dataset/
+/runs/
+/train.py
+/yolov8n.pt
